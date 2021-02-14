@@ -12,3 +12,5 @@ Where
               it's an chat(two-way) type of communication from client to server and server to client where communication ends when client sends the message "end" to server.
 
 ## compile the server program first then compile the client program.
+
+I apologize if there were any errors or flaws crept either in code or README.md
